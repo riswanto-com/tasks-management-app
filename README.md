@@ -5,6 +5,7 @@
 <p>PHP Version on my computer : PHP 8.2.0</p>
 <p>Database : MySQL</p>
 ## How to Build the Tasks Management App:
+
 1. run the command at the command prompt : composer require "ext-gd:*" --ignore-platform-reqs
 2. Run the command at the command prompt: npm install
 3. Database settings in the create .env file then enter the database connection config in the following section: 
